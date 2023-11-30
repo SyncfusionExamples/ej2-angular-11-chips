@@ -50,7 +50,7 @@ You can [customize](https://ej2.syncfusion.com/angular/documentation/chips/custo
 
 
 ## Related links
-[Learn More about Angular Chips ](https://www.syncfusion.com/angular-components/angular-chips?utm_source=github&utm_medium=listing&utm_campaign=angular-chips-github-samples)
+[Learn More about Angular Chips](https://www.syncfusion.com/angular-components/angular-chips?utm_source=github&utm_medium=listing&utm_campaign=angular-chips-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-chips-github-samples)
 
